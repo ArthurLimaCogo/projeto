@@ -1,0 +1,44 @@
+/* CSS Principal */
+
+header{
+	text-align: center;
+}
+
+main{
+	text-align: center;
+}
+
+
+.titulo{
+	background-color: #FFFF00;
+	padding: 10px
+	margin-top: 0;
+	border-radius: 0px;
+	text-align: right;
+	font-size: 20px;
+}
+
+.paragrafo{
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold
+}
+
+li{
+	font-size: .8em;
+}
+
+li strong{
+	font-style: italic;
+}
+
+/* Seção do Footer */
+
+footer{
+	background-color: #888888;
+	padding: 10px
+	margin-top:-9px;
+	color: red;
+	
+}
+
